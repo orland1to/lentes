@@ -3,12 +3,13 @@ descargar libreria de https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-
 puedes usar git clone https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 despues copia todos los archivos a una carpeta en librerias de arduino que se debera llamar LiquidCrystal_I2C
+despues de agregar el menu basado en el codigo de :
+https://exploreembedded.com/wiki/Interactive_Menus_for_your_project_with_a_Display_and_an_Encoder
 
-por ahora estoy usando los ejemplos de la libreria para poder mostrar mensajes en la lcd
+se muestra el tiempo transcurrido desde que inicia el programa, falta probar el encoder
 next steps:
 agregar codigo de :https://www.brainy-bits.com/stepper-motor-rotary-encoder-p1/
 para controlar el motor y mostrar su posicion con el encoder.
 
-despues agregar el menu basado en el codigo de :
-https://exploreembedded.com/wiki/Interactive_Menus_for_your_project_with_a_Display_and_an_Encoder
+
 
